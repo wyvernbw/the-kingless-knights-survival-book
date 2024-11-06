@@ -5,6 +5,9 @@ title: Combat Options
 In this chapter, you will find the new actions and options a character can take
 during combat.
 
+![[./assets/cover3.png|400]]
+
+> *(credits: Vermis*)
 # Actions
 
 ## Attacking

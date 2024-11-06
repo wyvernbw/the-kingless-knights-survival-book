@@ -2,6 +2,10 @@
 title: Flow of Combat
 ---
 
+![[./assets/cover2.png|300]]
+
+> *(credit: Vermis)*
+
 The flow of combat outlined within the Survival Book is similar to the one found
 in D&D 5th edition, with a few important changes.
 

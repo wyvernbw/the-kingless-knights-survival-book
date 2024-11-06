@@ -6,6 +6,10 @@ title: Preface
 the wild, abandoned without a king and left to face death or capture in enemy
 lands.*
 
+![[./assets/cover.jpg]]
+
+*credit: Vermis*
+
 # The Kingless Knight's Survival Book
 
 **The Kingless Knight's Survival Guide** is a D&D 5th edition combat expansion
@@ -14,11 +18,11 @@ rpgs. It fits perfectly for dark or low fantasy settings.
 
 ## Contents
 
-- [[Introduction]]
+- TODO [[Introduction]]
 - [[Flow of Combat]]
-- [[Combat Changes]]
+- TODO [[Combat Changes]]
 - [[Combat Options]]
-- [[Survival in the Wilderness]]
-- [[Bonus content]]
-	- [[Feats]]
-	- [[Items]]
+- TODO [[Survival in the Wilderness]]
+- TODO [[Bonus content]]
+	- TODO [[Feats]]
+	- TODO [[Items]]
