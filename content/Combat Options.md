@@ -8,6 +8,19 @@ during combat.
 ![[./assets/cover3.png|400]]
 
 > *(credits: Vermis*)
+
+Quick Reference
+- [[Combat Options#Actions]]
+	- [[Combat Options#Attacking]]
+	- [[Combat Options#Combat insight]]
+	- [[Combat Options#Prayer]]
+	- [[Combat Options#Prayer]]
+	- [[Combat Options#Strike fear]]
+- [[Combat Options#Bonus Actions]]
+	- [[Combat Options#Feint]]
+- [[Combat Options#Reactions]]
+	- [[Combat Options#Parry]]
+	- [[Combat Options#Dodge]]
 # Actions
 
 ## Attacking

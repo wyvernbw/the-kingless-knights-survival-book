@@ -5,6 +5,11 @@ title: New Effects
 This ruleset comes with a few new effects and conditions, as well as changes to
 the r.a.w. ones.
 
+- [[New Effects#Critical Hits]]
+- [[New Effects#Fatigue]]
+- [[New Effects#Insanity]]
+	- [[New Effects#Common effects of insanity]]
+
 ##### Critical Hits
 
 Critical hits now happen when a an unmodified roll lands on the enemy's [[Combat Options#Weak Spots|weak spot]], instead of the usual 20. 
