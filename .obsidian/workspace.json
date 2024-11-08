@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/New Effects.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Effects"
+              "title": "index"
             }
           }
         ],
@@ -175,8 +175,8 @@
   },
   "active": "2a48127b796a37c3",
   "lastOpenFiles": [
-    "content/Combat Options.md",
     "content/New Effects.md",
+    "content/Combat Options.md",
     "content/index.md",
     "public/404.html",
     "public/assets/graph1.png",

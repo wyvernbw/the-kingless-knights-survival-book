@@ -20,7 +20,7 @@ rpgs. It fits perfectly for dark or low fantasy settings.
 
 - TODO [[Introduction]]
 - [[Flow of Combat]]
-- TODO [[New Effects]]
+- [[New Effects]]
 - [[Combat Options]]
 - TODO [[Survival in the Wilderness]]
 - TODO [[Bonus content]]
