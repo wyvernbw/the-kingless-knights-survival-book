@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/New Effects.md",
+                "file": "content/Combat Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Effects"
+              "title": "Combat Options"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Combat Options"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a48127b796a37c3",
+  "active": "20c864c448ecef33",
   "lastOpenFiles": [
-    "content/Flow of Combat.md",
-    "content/New Effects.md",
     "content/index.md",
+    "content/Flow of Combat.md",
+    "public/tags/Critical.html",
+    "content/New Effects.md",
     "content/Combat Options.md",
     "public/404.html",
     "public/assets/graph1.png",
@@ -193,7 +193,6 @@
     "public/static",
     "public/index.xml",
     "public/sitemap.xml",
-    "public/tags/index.html",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/tsx/node_modules/@esbuild/darwin-arm64/README.md",
@@ -215,7 +214,6 @@
     "node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
     "node_modules/fetch-ponyfill/node_modules/webidl-conversions/LICENSE.md",
     "node_modules/fetch-ponyfill/node_modules/webidl-conversions/README.md",
-    "node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/psl/browserstack-logo.svg",
     "public/assets/cover3.png",
