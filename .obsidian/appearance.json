@@ -1,0 +1,12 @@
+{
+  "accentColor": "#f96c88",
+  "cssTheme": "Vanilla AMOLED",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Geist,Inter",
+  "textFontFamily": "Geist,Inter",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "no-strikethrough-checkboxes"
+  ],
+  "theme": "obsidian"
+}
