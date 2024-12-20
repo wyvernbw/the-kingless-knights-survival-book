@@ -114,7 +114,7 @@ something against you.
 	- -1 per paranoia stack on insight and perception checks when your allies are
 	around you, unless made against an ally.
 - 2 stacks and above:
-	- -2 per paranoia stacks on all bonuses you grant to allies.
+	- -2 per paranoia stacks on all bonuses you receive from allies.
 - 3 stacks and above: 
 	- sleeping within 60 ft. of your allies grants you a level of fatigue.
 
