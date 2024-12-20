@@ -8,6 +8,19 @@ during combat.
 ![[./assets/cover3.png|400]]
 
 > *(credits: Vermis*)
+
+Quick Reference
+- [[Combat Options#Actions]]
+	- [[Combat Options#Attacking]]
+	- [[Combat Options#Combat insight]]
+	- [[Combat Options#Prayer]]
+	- [[Combat Options#Prayer]]
+	- [[Combat Options#Strike fear]]
+- [[Combat Options#Bonus Actions]]
+	- [[Combat Options#Feint]]
+- [[Combat Options#Reactions]]
+	- [[Combat Options#Parry]]
+	- [[Combat Options#Dodge]]
 # Actions
 
 ## Attacking
@@ -96,13 +109,9 @@ and can choose whichever one they like.
 Whenever an attack roll, without adding any modifier, equals the score of the
 attacked creature's weak spot, a critical hit happens. In this case, the player
 is not given the option of adding or subtracting anything from the roll and the
-attack automatically succeeds. 
+attack automatically succeeds.  
 
-Critical hits are more devastating than the base game, doubling the damage die
-and taking the max value (`2d6 -> 4d6 -> 4 * 6 = 24)` and adding damage
-modifiers once.
-
-For additional effects of critical hits, see [[Combat Changes]].
+For more information, see [[New Effects#Critical Hits]].
 
 ## Combat insight
 
@@ -125,10 +134,15 @@ religion check and choose one of the following effects:
 
 A combatant can recall information about the arcane and occult during a battle. They make an arcana check and choose one of the following effects:
 - them or an ally become immune to poison for one round
+	- DC: **14**
 - they gain useful information about another creature's spellcasting ability
-- a creature of their choice uninitiated in magic gains a level of Madness (once per creature)
+	- DC: 10 + that creature's arcana score
+- a creature of their choice uninitiated in magic gains a level of [[New Effects#Insanity]] (once per creature)
+	- DC: the creature's passive wisdom score
 - a creature of their choice receives disadvantage on a spell saving throw (once per creature)
+	-  DC: the creature's passive wisdom score
 - them or an ally recover a spell slot (once per long rest)
+	- DC: **15**
 
 ## Strike fear
 

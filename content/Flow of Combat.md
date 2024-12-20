@@ -9,6 +9,11 @@ title: Flow of Combat
 The flow of combat outlined within the Survival Book is similar to the one found
 in D&D 5th edition, with a few important changes.
 
+- [[Flow of Combat#Initiative]]
+- [[Flow of Combat#Attacks & Actions]]
+- [[Flow of Combat#0 HP]]
+- [[Flow of Combat#Death Saves]]
+
 Let's go through an example to see what combat might look like.
 
 ## Initiative
@@ -59,9 +64,8 @@ character's move speed is halved and it has disadvantage on any dexterity check.
 The creature can attack and take actions as normal.
 
 While in this state, the creature's HP can become negative and any attack made
-against the creature is an automatic Critical Hit (see [[Combat Changes#Critical
-Hits]]). The creature can then choose to stay awake and receive 1 level of
-exhaustion (see [[Combat Changes#Exhaustion]]) or fall unconscious. If the
+against the creature is an automatic Critical Hit (see [[New Effects#Critical Hits]]). The creature can then choose to stay awake and receive 1 level of
+fatigue (see [[New Effects#Fatigue]]) or fall unconscious. If the
 creature reaches the negative value of their maximum HP, they fall unconscious. 
 
 An unconscious creature rolls death saves as usual. 
