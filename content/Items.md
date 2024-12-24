@@ -20,6 +20,8 @@ Also see [[Combat Options#Stance Actions]].
 	- You charge your attack for a turn. Roll a `d12`. You can charge for up to 3
 	consecutive turns. Failing to charge cancels Helm-splitter and the stance slots
 	are lost.
+	- Charging works like concentration, but you make a constitution saving throw
+	when you take damage instead.
 	-  If you charged for at least one turn, you can attack. Make an attack with
 	disadvantage. On a miss, if the target is wearing armor, it gains an additional
 	weak spot at the number rolled. On a hit, add all the rolled die (from
@@ -32,7 +34,7 @@ Also see [[Combat Options#Stance Actions]].
 - (New) range: 10 ft.
 - (New) Cannot be parried by non-heavy weapons.
 - (New) **Cleave**
-- (New) **Man-splitter** `Stance action (1 slot)`:
+- (New) **Man-splitter** `Stance action (3 slots)`:
 	- Can be activated after attacking.
 	- On a critical hit, double the damage.
 	- If a creature remains below 15 health, it dies (unless using non-lethal damage) 

@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Combat Options.md",
+                "file": "content/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat Options"
+              "title": "Items"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Combat Options.md"
+                "file": "content/Items.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Combat Options"
+              "title": "Outline of Items"
             }
           }
         ],
@@ -199,13 +200,13 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "af68148c5de508e7",
+  "active": "a5c8f7eb0eba7532",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/Combat Options.md",
     "content/Items.md",
     "content/New Effects.md",
+    "content/index.md",
     "content/Flow of Combat.md",
-    "content/Combat Options.md",
     "public/static/og-image.png",
     "public/static/icon.png",
     "public/assets/graph1.png",
