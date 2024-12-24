@@ -118,7 +118,7 @@ For more information, see [[New Effects#Critical Hits]].
 Some weapons allow for special actions. These actions consume **stance slots**
 (similar to spell slots). You have a number stance slots equal to your level.
 Stance slots replenish after long rests. At 0 stance slots, using stance actions
-put you on the backfoot: for 2 turns, any hit made against you is a critical
+puts you on the backfoot: for 2 turns, any hit made against you is a critical
 hit.
 
 Stance actions **do not** work with the 'Extra Attack' feature, or any feature that
