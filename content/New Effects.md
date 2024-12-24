@@ -9,8 +9,9 @@ the r.a.w. ones.
 - [[New Effects#Fatigue]]
 - [[New Effects#Insanity]]
 	- [[New Effects#Common effects of insanity]]
+- 
 
-##### Critical Hits
+## Critical Hits
 
 Critical hits now happen when a an unmodified roll lands on the enemy's [[Combat Options#Weak Spots|weak spot]], instead of the usual 20. 
 
@@ -19,7 +20,7 @@ becomes `4d8` so you take `4*8 = 32`). Additionally, critical hits inflict
 permanent wounds based on where the weak spot is and grant one level of
 insanity and one level of fatigue.
 
-##### Fatigue 
+## Fatigue 
 
 Fatigue is the replacement for 5e's exhaustion condition. It represents the
 physical toll adventurers must pay as their bodies are pushed to their limits
@@ -54,7 +55,8 @@ least two hit die (long rests always decrease it by one level).
 | 19      | -8 on all charisma ability checks except intimidation, +2 intimidation                  | You are a walking corpse.                                                 |
 | **20**  | **Max HP halved and can hold up to 1 failed death save instead of 3**                   | You are at death's door.                                                  |
 
-##### Insanity
+## Insanity
+
 Upon witnessing incredible horrors, adventurers begin to lose their
 mental capacity. This makes them battle-worn veterans but also increasingly
 unhinged. They might start losing their grip on reality, be paralysed with fear
@@ -156,3 +158,16 @@ you believe is controlling you.
 		- Discard an ally's rations. 
 		- Sabotage an ally's armor: -2 AC (they only realize after being attacked)
 		- You alert enemies to your position. 
+
+## Bleeding
+
+Any piercing or slashing damage inflicts bleeding. While bleeding, you take
+damage based on the dice of the attack you were hit with (eg. 1d8 for 2d8, 1d6
+for 3d6). Additionally, you cannot gain bleeding again unless the damage is
+higher, in which case it replaces the old one. Any magical healing stops the
+bleeding. Alternatively, a creature can perform a medicine check with a DC equal
+to half the damage taken to staunch the bleeding.
+
+## Concussion
+
+Taking bludgeoning damage decreases your move speed by 5 feet for one round.

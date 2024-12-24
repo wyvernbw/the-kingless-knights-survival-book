@@ -38,3 +38,46 @@ Also see [[Combat Options#Stance Actions]].
 	- Can be activated after attacking.
 	- On a critical hit, double the damage.
 	- If a creature remains below 15 health, it dies (unless using non-lethal damage) 
+
+(Changed) **Dagger**
+- (Changed) **Nick**: can attack with the same weapon
+- (New) Stab wounds
+	- Hitting a target with a dagger twice in the same turn deals 1d8 bleed instead of 1d4
+- (New) **Needle stab** `Stance action (2 slot)`:
+	- Counts as two hits for the purpose of *Stab wounds*
+	- Your next attack ignores armor that is medium or heavy. (refer to armor AC
+	table) 
+		- Hide: -2 AC
+		- Chain shirt: -3 AC
+		- Scale mail, breastplate or ring mail: -4 AC
+		- Half plate: -5 AC
+		- Chain mail: -6  AC
+		- Splint: -7 AC
+		- Plate: -8 AC  
+
+(Changed) **Club**
+- (New) **Skull breaker** `Stance action (1 slot)`
+	- Your next attack deals 1d6 extra damage
+	
+(Changed) **Greatclub**
+- (New) **Skull crusher** `Stance action (1 slot)`
+	- Charge (1d12, up to 3)
+	- On attack (req. 1 charge) deal extra charge damage and stun target.
+
+(Changed) **Javelin**
+- (New) **Volley** `Stance action (1 slot)`
+	- Throwing the javelin allows you to throw another as a bonus action.
+	- Cannot be used with 0 slots.
+	- Can be repeated in the same turn as long as you have slots (throwing the
+	second javelin does not require a bonus action on subsequent uses).
+
+(Changed) **Light hammer**
+- (Changed) damage: 1d6 bludgeoning
+- (New) **Pummel** `Stance action (1 slot)`
+	- Make a melee attack. If it hits, you can attack again as part of the same action.
+
+### Ranged
+
+(Changed) **Light crossbow**
+- (New) **Quickdraw** `Stance action (1 slot)`
+	- Attack as a reaction to being attacked, including spells that require you to make a dexterity or strength saving throw.  
