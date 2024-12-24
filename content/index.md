@@ -25,4 +25,4 @@ rpgs. It fits perfectly for dark or low fantasy settings.
 - TODO [[Survival in the Wilderness]]
 - TODO [[Bonus content]]
 	- TODO [[Feats]]
-	- TODO [[Items]]
+	- *WIP* [[Items]]
