@@ -22,7 +22,7 @@ rpgs. It fits perfectly for dark or low fantasy settings.
 - [[Flow of Combat]]
 - [[New Effects]]
 - [[Combat Options]]
-- TODO [[Survival in the Wilderness]]
+- [[Survival in the Wilderness]]
 - TODO [[Bonus content]]
 	- TODO [[Feats]]
 	- *WIP* [[Items]]
