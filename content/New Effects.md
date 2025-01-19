@@ -59,12 +59,13 @@ least two hit die (long rests always decrease it by one level).
 
 Upon witnessing incredible horrors, adventurers begin to lose their
 mental capacity. This makes them battle-worn veterans but also increasingly
-unhinged. They might start losing their grip on reality, be paralysed with fear
+unhinged. They might start losing their grip on reality, be paralyzed with fear
 upon seeing an old foe, or lose all cognitive function.
 
-**Insanity levels DO NOT regenerate, unlike Madness levels**
+**Insanity levels can only be healed through [[#Bond]].**
 
-When you gain a level of insanity, roll a `d10` on the insanity table. Additionally, at certain levels of insanity, you gain a level of [[New Effects#Madness|Madness]].
+The first time you gain a level of insanity, roll on the Insanity table to
+determine the effect. Subsequent levels add stacks to this insanity.
 
 **Tip** Feel free to extends the insanity table however you see fit.
 
@@ -98,51 +99,64 @@ apply to intimidation).
 	- disadvantage on performance checks.
 	- -2 * apathy stack on all bonuses you grant to allies.
 - 3 stacks and above:
+	- disadvantage on persuasion checks
+	- can no longer use [[#Bond]].
+- 4 stacks and above:
 	- receive NIHILISM:
 		- temporary debuff.
 		- +3 intimidation.
-		- every time you take a short rest or roll a charisma ability check or save,
-		your **max hit die count is drained by 1.** 
-		- any charisma ability check below 10 fails. If you have 0 hit die, all
-		charisma ability checks fail.
-		- can be cured by spending time with an ally during 3 consecutive short rests or equivalent time (including one long rest).
+		- every time you take a short rest or roll a charisma ability check or save, you lose a hit dice.
+		- any charisma ability check below 10 fails (regardless of modifier). If you have 0 hit die, all charisma ability checks fail.
+		- can be cured if an ally spends meaningful time with you during 3 consecutive short rests or equivalent time (including one long rest).
 
 **paranoia** 
 
 You begin to question those around you and are convinced they are plotting
-something against you.
+something against you. **the effects stacks beyond 4 start over from 1**.
 
 - 1 stack and above:
-	- -1 per paranoia stack on insight and perception checks when your allies are
-	around you, unless made against an ally.
+	- -1 on insight and perception checks when your allies are around you, unless made against an ally.
 - 2 stacks and above:
 	- -2 per paranoia stacks on all bonuses you receive from allies.
 - 3 stacks and above: 
 	- sleeping within 60 ft. of your allies grants you a level of fatigue.
+- 4 stacks and above:
+	- disadvantage on all wisdom saving throws.
+	- advantage on all checks against deception or persuasion.
 
 **unfamiliar faces**
 
 The faces in your memory become an unintelligible blur. 
 
-- At random intervals, the creature must roll a charisma saving throw. On a
-	failed save, the creature fails to tell foe and friend apart. The effect
+- At random intervals, you roll a wisdom saving throw. On a
+	failed save, you fail to tell foe and friend apart. The effect
 	persists until you succeed the check. 
 - **DC** is equal to 10 + the number of *unfamiliar faces* stacks twice.
 - **In Combat:** If you don't interact (using combat options) with the unfamiliar
 faces for 3 consecutive rows, you gain the frightened condition. Additionally,
 any attack made against you succeeds automatically until the effects of
 unfamiliar faces end. 
+- 3 stacks and above: 
+	- The effect of unfamiliar faces is guaranteed to trigger for the first attack you make or the first spell you cast. The effect lasts for one turn, and no saving throw is required. 
+- 4 stacks and above:
+	- Your mind goes completely blank. You can only take the attack action on your turn, or you can pass out for 8h.
 
 **obsessive tic**
 
 You develop a compulsion to perform a specific action (counting, arranging
 items, reciting a prayer, etc.) to stave off perceived danger or misfortune.
 
-- At random intervals, you must act on your tic. You have disadvantage on all
-checks (including attacks) until you manage to do it.
-- Your tic takes turns equal to the stacks of *obsessive tic*, time in which your
-weak spot becomes visible to all creatures around you.
-- Completing your tic permanently changes your weak spot.
+- stack 1 and above:
+	- At random intervals, you must act on your tic. You have disadvantage on all
+	checks (including attacks) until you manage to do it. 
+	- Your tic requires a number of actions or bonus actions equal to the number of stacks of *obsessive tic* in order to complete. You can use both an action and a bonus action in your turn to advance your tic.
+	- Your weak spot becomes visible to every creature around you, until you finish your tic.
+	- Completing your tic permanently changes your weak spot.
+- stack 3 and above:
+	- Your tic triggers whenever you fail a saving throw
+- stack 4 and above:
+	- A creature can remind you of your tic, forcing you to act on it. 
+	- This only works twice per combat encounter.
 
  **Shadowed Intentions**
  
@@ -158,6 +172,12 @@ you believe is controlling you.
 		- Discard an ally's rations. 
 		- Sabotage an ally's armor: -2 AC (they only realize after being attacked)
 		- You alert enemies to your position. 
+
+### Bond
+
+Every short or long rest, spending time with an ally has a 1:2 chance of
+relieving 1 of their insanity levels. You can only use this feature once per
+short rest, with one ally.
 
 ## Bleeding
 
