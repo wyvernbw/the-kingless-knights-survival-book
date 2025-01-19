@@ -162,9 +162,7 @@ items, reciting a prayer, etc.) to stave off perceived danger or misfortune.
  
 You occasionally become convinced you are a pawn of a malevolent force, with no control over your actions.
 
-- At random intervals, such as after taking damage, you must make a Wisdom save.
-On a failure, you become incapacitated for 1 round, “fighting off” the influence
-you believe is controlling you.
+- At random intervals, you must make a Wisdom save. On a failure, you become incapacitated for 1 round, “fighting off” the influence you believe is controlling you.
 - **DC** is equal to 10 + the number of *shadowed intentions* stacks twice
 - 3 stacks and higher:
 	- You unknowingly sabotage your party. On every short rest you either:
@@ -172,6 +170,8 @@ you believe is controlling you.
 		- Discard an ally's rations. 
 		- Sabotage an ally's armor: -2 AC (they only realize after being attacked)
 		- You alert enemies to your position. 
+- 4 stacks and higher:
+	- Whenever an ally becomes staggered around you, roll a DC 15 wisdom save. On a failure, attack them. If it is possible for the attack to hit based on the roll (regardless of the modifier you choose), the attack hits and counts as a critical hit.
 
 ### Bond
 
