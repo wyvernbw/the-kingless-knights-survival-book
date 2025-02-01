@@ -16,13 +16,15 @@ lands.*
 meant for high difficulty high stakes combat, with mechanics inspired by retro
 rpgs. It fits perfectly for dark or low fantasy settings.
 
+Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
+
 ## Contents
 
 - TODO [[Introduction]]
 - [[Flow of Combat]]
 - [[New Effects]]
 - [[Combat Options]]
-- TODO [[Survival in the Wilderness]]
+- [[Survival in the Wilderness]]
 - TODO [[Bonus content]]
 	- TODO [[Feats]]
-	- TODO [[Items]]
+	- *WIP* [[Items]]

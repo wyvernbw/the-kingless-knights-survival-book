@@ -28,6 +28,8 @@ Quick Reference
 Within this expansion, an entirely new system for attacks is included. It
 replaces the attack roll versus AC system in D&D 5th edition.
 
+**After** reading the rules detailed below, check out the [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
+
 ### Weak Spots
 
 All creatures have a weak spot, be it a gap within the plate armor, a spot of
@@ -113,6 +115,17 @@ attack automatically succeeds.
 
 For more information, see [[New Effects#Critical Hits]].
 
+## Stance Actions
+
+Some weapons allow for special actions. These actions consume **stance slots**
+(similar to spell slots). You have a number stance slots equal to your level.
+Stance slots replenish after long rests. At 0 stance slots, using stance actions
+puts you on the backfoot: for 2 turns, any hit made against you is a critical
+hit.
+
+Stance actions **do not** work with the 'Extra Attack' feature, or any feature that
+requires an attack to be made.
+
 ## Combat insight
 
 A combatant can perform an insight check to determine the armor window of a
@@ -151,6 +164,33 @@ A combatant can attempt to frighten an enemy. They roll an intimidation check ag
 For example, level 12 fighter can attempt to intimidate a lich (CR 21). The DC
 is 10 + (21 - 12) + 3 (the lich's charisma) = 22
 
+## Dodge
+
+A combatant can prepare to dodge an incoming attack, shifting their weak spot to
+the left or right by an amount equal to their proficiency bonus **the next time
+they are attacked**. This means the direction is determined on the turn the
+dodge is initiated and the weak spot remains changed until the beginning of the
+combatant's next turn. The creature cannot use any movement on the turn the
+*dodge* action is used. 
+
+Additionally, while the effect of the dodge is active, the first DEX save a
+creature must roll succeeds automatically.
+
+Another combatant can only know a dodge is being
+prepared by using [[#Combat insight]]. The dodge cannot be canceled or altered
+in any way after it is initiated.
+
+This mechanic is similar to turn based RPGs 'guard' mechanic.
+
+<details>
+<summary> DM TIP </summary>
+Always determine what an NPC combatant does on their turn the turn prior and
+lock that in to a high degree (eg. if a monster was going to use an attack that
+demands a DEX save, do not change your mind after a player prepares a dodge, but
+if for eg. a trap is detonated that might harm the monster, they would react).
+In short, don't do metagaming.
+</details>
+
 # Bonus Actions
 
 ## Feint
@@ -181,9 +221,3 @@ fails, the next attack against the combatant has advantage.
 minimum. DMs can use it as a gimmick to take the players by surprise but should
 balance the monsters accordingly. 
 
-## Dodge
-
-A combatant can dodge an incoming attack, shifting their weak spot to the left
-or right by half their proficiency bonus. The dodge must be initiated **before**
-the attack roll is made. The dodge also leaves the creature on unstable footing,
-gaining disadvantage on the next dexterity saving throw. 
