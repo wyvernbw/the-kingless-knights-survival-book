@@ -32,28 +32,28 @@ least two hit die (long rests always decrease it by one level).
 
 **Fatigue effect table**
 
-| Fatigue | effect                                                                                  | description                                                               |
-| ------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1       | -1 STR                                                                                  | muscle aches.                                                             |
-| 2       | -5 ft. move speed                                                                       | sore legs.                                                                |
-| 3       | -2 STR                                                                                  | ...                                                                       |
-| 4       | -1 DEX and -5 ft. move speed                                                            | feelings of heaviness.                                                    |
-| 5       | -2 CON                                                                                  | weakened immune system.                                                   |
-| 6       | -1 DEX and -5 ft. move speed                                                            | ...                                                                       |
-| 7       | Spells cast always use the max level spell slot available and -2 Perception             | the pain numbs your mind.                                                 |
-| 8       | Unable to wear heavy armor. When wearing light armor, the DEX bonus to AC is at most 2. | can barely keep your body moving.                                         |
-| 9       | Disadvantage on ability checks you're not proficient in                                 | ...                                                                       |
-| **10**  | **Max HP halved and can hold up to 2 failed death saves instead of 3**                  | Your body is nearing it's limit. Any serious wound is likely to kill you. |
-| 11      | -1d4 on attack rolls                                                                    | Can no longer muster the strength to strike your foes.                    |
-| 12      | Disadvantage on saving throws                                                           | Your reflexes and survival capabilities suffer greatly.                   |
-| 13      | Effect of all healing halved                                                            | Your body can no longer be a vessel for otherworldly aid.                 |
-| 14      | Unable to concentrate (can't use spells that require concentration) and -2 Perception   | You lose your precision in channeling magic.                              |
-| 15      | -2 to all stats                                                                         | ...                                                                       |
-| 16      | -5 ft. move speed and -2 Perception                                                     | ...                                                                       |
-| 17      | Disadvantage on all ability checks and attack rolls                                     | ...                                                                       |
-| 18      | Damage dealt is halved                                                                  | ...                                                                       |
-| 19      | -8 on all charisma ability checks except intimidation, +2 intimidation                  | You are a walking corpse.                                                 |
-| **20**  | **Max HP halved and can hold up to 1 failed death save instead of 3**                   | You are at death's door.                                                  |
+| Fatigue | effect                                                                                                                    | description                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1       | -1 STR                                                                                                                    | muscle aches.                                                             |
+| 2       | -5 ft. move speed                                                                                                         | sore legs.                                                                |
+| 3       | -2 STR                                                                                                                    | ...                                                                       |
+| 4       | -1 DEX and -5 ft. move speed                                                                                              | feelings of heaviness.                                                    |
+| 5       | -2 CON                                                                                                                    | weakened immune system.                                                   |
+| 6       | -1 DEX and -5 ft. move speed                                                                                              | ...                                                                       |
+| 7       | Spells cast always use the max level spell slot available and -2 Perception                                               | You lose your precision in channeling magic.                              |
+| 8       | Unable to wear heavy armor. When wearing light armor, the DEX bonus to AC is at most 2.                                   | can barely keep your body moving.                                         |
+| 9       | Disadvantage on ability checks you're not proficient in                                                                   | You can barely handle tasks that aren't already muscle memory for you.    |
+| **10**  | **can hold up to 2 failed death saves instead of 3**                                                                      | Your body is nearing it's limit. Any serious wound is likely to kill you. |
+| 11      | -1d4 on attack rolls                                                                                                      | Can no longer muster the strength to strike your foes.                    |
+| 12      | Disadvantage on saving throws                                                                                             | Your reflexes and survival capabilities suffer greatly.                   |
+| 13      | Effect of all healing halved                                                                                              | Your body can no longer be a vessel for otherworldly aid.                 |
+| 14      | Whenever you use a spell that requires concentration, you must roll a DC 15 CON save or lose concentration. -2 Perception | the pain numbs your mind.                                                 |
+| 15      | -2 to all stats                                                                                                           | ...                                                                       |
+| 16      | -5 ft. move speed and -2 Perception                                                                                       | ...                                                                       |
+| 17      | Disadvantage on all ability checks and attack rolls                                                                       | ...                                                                       |
+| 18      | Damage dealt is halved                                                                                                    | You lose power in your strikes.                                           |
+| 19      | -8 on all charisma ability checks except intimidation, +2 intimidation                                                    | You are a walking corpse.                                                 |
+| **20**  | **Max HP halved and can hold up to 1 failed death save instead of 3**                                                     | You are at death's door.                                                  |
 
 ## Insanity
 
