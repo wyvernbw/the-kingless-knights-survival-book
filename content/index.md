@@ -31,4 +31,7 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 
 ## Changelog
 
+- `e457182`: 
+	- add [[New Effects#Infection]]
+	- update [[New Effects#Fatigue]] levels 10 and 20
 - `dcdab47` : remove max hp halved from fatigue level 20
