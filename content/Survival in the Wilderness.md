@@ -84,4 +84,3 @@ interrupt (this could happen if the roll was on a safe
 number, but you want to keep the players guessing) or they
 could plan to assassinate the players, call for
 reinforcements, become possessed, show their true identity
-as a vile creature or whatever else.
