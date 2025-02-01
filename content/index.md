@@ -28,3 +28,7 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 - TODO [[Bonus content]]
 	- TODO [[Feats]]
 	- *WIP* [[Items]]
+
+## Changelog
+
+- `dcdab47` : remove max hp halved from fatigue level 20

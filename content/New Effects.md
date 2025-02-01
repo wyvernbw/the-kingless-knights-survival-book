@@ -173,11 +173,6 @@ You occasionally become convinced you are a pawn of a malevolent force, with no 
 - 4 stacks and higher:
 	- Whenever an ally becomes staggered around you, roll a DC 15 wisdom save. On a failure, attack them. If it is possible for the attack to hit based on the roll (regardless of the modifier you choose), the attack hits and counts as a critical hit.
 
-### Bond
-
-Every short or long rest, spending time with an ally has a 1:2 chance of
-relieving 1 of their insanity levels. You can only use this feature once per
-short rest, with one ally.
 
 ## Bleeding
 

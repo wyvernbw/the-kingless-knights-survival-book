@@ -51,6 +51,13 @@ consecutive short or long rests.
 > - `4dH` hit die in healing
 > - `-1` fatigue
 
+### Bond
+
+Every short or long rest, spending time with an ally has a 1:2 chance of
+relieving 1 of their insanity levels. You can only use this feature once per
+short rest, with one ally. If you are using this feature, others cannot bond
+with you.
+
 ### Rest interruptions 
 
 *The cold grasp of death lingered on the knight's throat as

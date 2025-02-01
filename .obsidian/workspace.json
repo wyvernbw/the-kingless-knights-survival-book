@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/New Effects.md",
+                "file": "content/Survival in the Wilderness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Effects"
+              "title": "Survival in the Wilderness"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Combat Options.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat Options"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,18 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20c864c448ecef33",
+  "active": "2a48127b796a37c3",
   "lastOpenFiles": [
+    "content/New Effects.md",
+    "content/Flow of Combat.md",
+    "content/Combat Options.md",
     "content/Survival in the Wilderness.md",
     "content/index.md",
-    "content/Combat Options.md",
-    "content/Flow of Combat.md",
     "content/assets/cover.jpg",
     "content/assets/cover2.png",
     "content/assets/cover3.png",
     "content/assets/graph1.png",
     "content/Items.md",
-    "content/New Effects.md",
     "public/tags/feature",
     "public/tags/plugin",
     "public/features",
