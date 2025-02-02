@@ -164,6 +164,26 @@ A combatant can attempt to frighten an enemy. They roll an intimidation check ag
 For example, level 12 fighter can attempt to intimidate a lich (CR 21). The DC
 is 10 + (21 - 12) + 3 (the lich's charisma) = 22
 
+## Parry
+
+*requirement: holding a weapon or shield you are proficient with*
+
+A combatant can attempt to parry an incoming attack (including spells) or
+anything that requires a saving throw as long as it's some sort of external
+effect (eg. inflict wounds or mind spike cannot be parried). After taking the
+parry action on their turn, the next time they are attacked they make an attack
+roll (modifier is +5 if using a shield).  They must match the number of the
+opponent's roll exactly. 
+
+- **On a hit**, the parry succeeds and they can attack the creature immediately
+(weapon range still applies) with advantage as part of the same reaction and any
+hit counts as a critical hit. 
+- **On a miss**, all nearby opponents can make attacks of opportunity against
+them.
+
+Another combatant can only know a parry is being
+prepared by using [[#Combat insight]]. The parry cannot be canceled after it is initiated.
+
 ## Dodge
 
 A combatant can prepare to dodge an incoming attack, shifting their weak spot to
@@ -195,29 +215,9 @@ In short, don't do metagaming.
 
 ## Feint
 
-A combatant can expend a bonus action to feint an attack. This must be done
-**before** any reactions are triggered. As a result of the feint, the attack is
-canceled, and any parry made against the attack fails. 
+A combatant can expend a bonus action to feint an attack. As a result of the
+feint, the attack is canceled, and any parry or dodge made against the attack
+fails. 
 
-**Tip** It's recommended for players to declare they want to feint as they
-attack, to avoid early reactions canceling their feint. 
-
-**Tip** Use this to bait enemy parries or dodges.
-
-# Reactions
-
-## Parry
-
-A combatant can attempt to parry an incoming attack. They must decide whether to
-parry or not before the attack roll is made. If they have a weapon they are
-proficient with in hand, they can add their proficiency bonus to their AC,
-shrinking their attack window. Note that the attacker is unaware of the
-intention to parry their attack until the hit is made. If the attack would have
-normally hit, but misses because of the parry, the combatant can attack
-immediately with advantage and any hit counts as a critical hit. If the parry
-fails, the next attack against the combatant has advantage.
-
-**Tip** For Monsters, it's recommended to keep the parry ability use to a
-minimum. DMs can use it as a gimmick to take the players by surprise but should
-balance the monsters accordingly. 
+**Tip** Use this to waste enemy parries or dodges.
 

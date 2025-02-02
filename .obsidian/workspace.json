@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Combat Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Combat Options"
             }
           },
           {
@@ -175,9 +175,9 @@
   },
   "active": "20c864c448ecef33",
   "lastOpenFiles": [
+    "content/index.md",
     "content/New Effects.md",
     "content/Survival in the Wilderness.md",
-    "content/index.md",
     "content/Flow of Combat.md",
     "content/Combat Options.md",
     "content/assets/cover.jpg",
