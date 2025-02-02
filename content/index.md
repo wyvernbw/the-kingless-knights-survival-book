@@ -31,6 +31,10 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 
 ## Changelog
 
+- `e574198`: buff [[Combat Options#Occult insight]] and [[Combat Options#Prayer]]
+	- `occult insight`: added sacrifice
+	- `occult insight`: remove `once per long rest` limits on spell slot recovery and inducing insanity
+	- `prayer`: add ignore fatigue, specify stacking
 - `cb741fa`: [[Combat Options#Parry]] rework
 - `e457182`: 
 	- add [[New Effects#Infection]]

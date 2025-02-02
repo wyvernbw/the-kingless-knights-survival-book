@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Combat Options.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat Options"
+              "title": "index"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/New Effects.md",
+                "file": "content/Combat Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Effects"
+              "title": "Combat Options"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "20c864c448ecef33",
   "lastOpenFiles": [
-    "content/index.md",
     "content/Combat Options.md",
+    "content/index.md",
     "content/New Effects.md",
     "content/Survival in the Wilderness.md",
     "content/Flow of Combat.md",
