@@ -139,9 +139,11 @@ Information about the target.
 
 A combatant can pray to the divinity to receive aid in battle. They make a
 religion check and choose one of the following effects:
-- an ally is blessed and can use the score of the religion check instead of rolling a saving throw.
+- an ally is blessed and can use the score of the religion check instead of rolling a saving throw. does not stack.
 - an ally is cured of a minor debuff inflicted by a failed saving throw. The DC of the check is equal to the DC of the failed save.
-- an ally is cured of Frightened or Madness.
+- an ally is cured of Frightened. DC is equal to that of the original save.
+- an ally can ignore 2 levels of [[New Effects#Fatigue]] for 1 minute. does not stack.
+	- DC: **15**
 
 ## Occult insight
 
@@ -152,10 +154,12 @@ A combatant can recall information about the arcane and occult during a battle. 
 	- DC: 10 + that creature's arcana score
 - a creature of their choice uninitiated in magic gains a level of [[New Effects#Insanity]] (once per creature)
 	- DC: the creature's passive wisdom score
-- a creature of their choice receives disadvantage on a spell saving throw (once per creature)
+- a creature of their choice receives disadvantage on a spell saving throw
 	-  DC: the creature's passive wisdom score
-- them or an ally recover a spell slot (once per long rest)
+- them or an ally recover a spell slot (once per short rest)
 	- DC: **15**
+- sacrifice a willing ally. they die, and their current health is transferred to someone else. On a failed check, the ally dies and the transfer fails.
+	- DC: **5**
 
 ## Strike fear
 
