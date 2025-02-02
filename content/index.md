@@ -31,6 +31,7 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 
 ## Changelog
 
+- `cb741fa`: [[Combat Options#Parry]] rework
 - `e457182`: 
 	- add [[New Effects#Infection]]
 	- update [[New Effects#Fatigue]] levels 10 and 20
