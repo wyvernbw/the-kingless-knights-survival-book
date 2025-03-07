@@ -8,7 +8,7 @@ title: The Kingless Knight's Survival Book
 the wild, abandoned without a king and left to face death or capture in enemy
 lands.*
 
-![[./assets/cover.jpg]]
+![[./assets/cover.jpg|200]]
 
 *credit: Vermis*
 
@@ -30,7 +30,7 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 - TODO [[Bonus content]]
 	- TODO [[Feats]]
 	- *WIP* [[Items]]
-
+	
 ## Changelog
 
 - `d810647`: Add spell slot recovery to [[Survival in the Wilderness#Short rests]]
@@ -43,3 +43,8 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 	- add [[New Effects#Infection]]
 	- update [[New Effects#Fatigue]] levels 10 and 20
 - `dcdab47` : remove max hp halved from fatigue level 20
+
+## Contributions
+
+Feel free to open issues for fixes or suggestions in the [GitHub repo](https://github.com/wyvernbw/the-kingless-knights-survival-book). As of
+right now i am not looking for content submissions.

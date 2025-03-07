@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of README"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "af68148c5de508e7",
   "lastOpenFiles": [
-    "content/Survival in the Wilderness.md",
     "content/index.md",
+    "content/Survival in the Wilderness.md",
     "content/Combat Options.md",
     "content/New Effects.md",
     "content/Items.md",
