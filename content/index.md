@@ -16,6 +16,8 @@ lands.*
 meant for high difficulty high stakes combat, with mechanics inspired by retro
 rpgs. It fits perfectly for dark or low fantasy settings.
 
+*Current official patch is `d810647`* (See [[#Changelog]]).
+
 Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 
 ## Contents
@@ -31,6 +33,7 @@ Check out the new [Hit Visualizer](https://kingless-hit-visualizer.vercel.app/).
 
 ## Changelog
 
+- `d810647`: Add spell slot recovery to [[Survival in the Wilderness#Short rests]]
 - `e574198`: buff [[Combat Options#Occult insight]] and [[Combat Options#Prayer]]
 	- `occult insight`: added sacrifice
 	- `occult insight`: remove `once per long rest` limits on spell slot recovery and inducing insanity
