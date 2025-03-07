@@ -1,28 +1,28 @@
 {
   "main": {
-    "id": "ba434b90069797cd",
+    "id": "1424abc35759ca4f",
     "type": "split",
     "children": [
       {
-        "id": "000e8a4ee0e5c4a0",
+        "id": "e4a2a7233c1e7f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "20c864c448ecef33",
+            "id": "af68148c5de508e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Survival in the Wilderness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Survival in the Wilderness"
             }
           },
           {
-            "id": "2a48127b796a37c3",
+            "id": "c74e87ea0ef4d125",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "Combat Options"
             }
+          },
+          {
+            "id": "e878dc075dd7d81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Items"
+            }
           }
         ]
       }
@@ -41,28 +55,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5f3e47659f44379d",
+    "id": "8cda05a2be043c61",
     "type": "split",
     "children": [
       {
-        "id": "b061b258d4623e76",
+        "id": "b46406f5a5ae957d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbdeb4b03c02559",
+            "id": "e90f7024223f3928",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "7a6e85d13d3a5e33",
+            "id": "b56952a0da357523",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +92,7 @@
             }
           },
           {
-            "id": "08fd79fad5e1f823",
+            "id": "0225ab506570f8c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,27 +100,49 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "23ce93cf445399da",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "4fd15dbd9b7bb9a9",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "right": {
-    "id": "9f21dfd371e8ee3a",
+    "id": "dc15a7e43d127005",
     "type": "split",
     "children": [
       {
-        "id": "c62807d88d16f037",
+        "id": "6f8618b070320ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c7ecf65ff862bb",
+            "id": "b27e023e02955688",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Casa Olaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +152,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Casa Olaru"
             }
           },
           {
-            "id": "45d275edd9c9c23a",
+            "id": "6a0ea435ee6cd566",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Casa Olaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Casa Olaru"
             }
           },
           {
-            "id": "694f020f89ddda03",
+            "id": "59f314ab73d8330f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,21 +183,26 @@
             }
           },
           {
-            "id": "66b362da20300f17",
+            "id": "096262426ab41707",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "content/Survival in the Wilderness.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Survival in the Wilderness"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,55 +211,63 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "20c864c448ecef33",
+  "active": "af68148c5de508e7",
   "lastOpenFiles": [
-    "content/Combat Options.md",
     "content/index.md",
+    "content/Combat Options.md",
     "content/New Effects.md",
     "content/Survival in the Wilderness.md",
-    "content/Flow of Combat.md",
-    "content/assets/cover.jpg",
-    "content/assets/cover2.png",
-    "content/assets/cover3.png",
-    "content/assets/graph1.png",
     "content/Items.md",
-    "public/tags/feature",
-    "public/tags/plugin",
-    "public/features",
-    "public/advanced",
-    "public/plugins",
-    "public/tags/Critical.html",
-    "public/404.html",
-    "public/assets/graph1.png",
-    "public/assets/graph1.aseprite",
-    "public/assets/cover2.png",
-    "public/assets/cover.jpg",
-    "public/static/giscus/light.css",
-    "public/static/giscus/dark.css",
+    "content/Flow of Combat.md",
     "public/static/og-image.png",
     "public/static/icon.png",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/tsx/node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/pixi.js/README.md",
-    "node_modules/gray-matter/node_modules/js-yaml/README.md",
-    "node_modules/gray-matter/node_modules/js-yaml/CHANGELOG.md",
-    "node_modules/colorjs.io/README.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
-    "node_modules/cliui/node_modules/ansi-regex/readme.md",
-    "node_modules/katex/node_modules/commander/Readme.md",
-    "node_modules/gray-matter/node_modules/argparse/README.md",
-    "node_modules/gray-matter/node_modules/argparse/CHANGELOG.md",
-    "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
-    "node_modules/node-fetch/node_modules/webidl-conversions/LICENSE.md",
-    "node_modules/node-fetch/node_modules/webidl-conversions/README.md",
-    "node_modules/fetch-ponyfill/node_modules/whatwg-url/README.md",
-    "node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
-    "node_modules/cli-spinner/img/spinner.gif"
+    "public/assets/graph1.png",
+    "public/assets/cover3.png",
+    "public/assets/cover2.png",
+    "public/assets/cover.jpg",
+    "content/assets/cover3.png",
+    "content/assets/cover2.png",
+    "content/assets/cover.jpg",
+    "vercel.json",
+    "content/assets/graph1.png",
+    "content/assets/graph1.aseprite",
+    "content/assets",
+    "content",
+    "public/assets/graph1.aseprite",
+    "public/assets",
+    "public/Combat-Options.html",
+    "public/images",
+    "public/tags/plugin/transformer.html",
+    "public/tags/plugin/filter.html",
+    "Iacob Hâncu Spintecatorul.md",
+    "Lancelot Valdaru.md",
+    "Lia Luncar.md",
+    "Casa Luncar.md",
+    "Casa Ceren.md",
+    "Marc Ceren.md",
+    "Casa Valdaru.md",
+    "Casa Fenvick.md",
+    "Casa Olaru.md",
+    "Sesiunea 2 Outline.canvas",
+    "Sesiunea 2.md",
+    "Helga Olaru.md",
+    "Yanna Valdaru.md",
+    "Solstitiul.md",
+    "Astromir.md",
+    "Untitled.md",
+    "Sesiunea 1.md",
+    "Sesiunea 1 Outline.canvas",
+    "Ian.md",
+    "Consiliul Regal.md",
+    "In Umbra Stelelor.md",
+    "Plot Outline.canvas",
+    "Sesiunea 0.md",
+    "bs/fizica/chaos theory.canvas"
   ]
 }

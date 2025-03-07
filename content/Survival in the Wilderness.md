@@ -26,6 +26,17 @@ Spending at least 2 hit die removes one level of
 fatigue (note that spending more hit die does not remove
 extra levels).
 
+**For Spellcasters**: For every hit dice used, roll a d4. You gain half of the
+number rolled (rounded up) in spell slots, starting from the lowest level and
+going up.
+
+> [!NOTE] Summary
+> On a short rest you gain (`XdH` = hit dice used):
+> - **NEW**: `(XdH)/2` (rounded down) in spell slots, starting from the lowest level.
+> - **if** you use at least `2dH`,  `-1` fatigue  (does not stack).
+> - `XdH` in healing.
+
+
 ### Long rests
 
 Long rests require a week to complete. A long rest can be
