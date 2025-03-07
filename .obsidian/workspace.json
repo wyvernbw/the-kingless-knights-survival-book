@@ -217,8 +217,12 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "af68148c5de508e7",
+  "active": "e90f7024223f3928",
   "lastOpenFiles": [
+    "package.json.2608652945",
+    "pnpm-lock.yaml",
+    "node_modules/@vercel",
+    "_tmp_2396_cdceefe771b6e9863006fcefcfb057b7",
     "content/index.md",
     "content/Survival in the Wilderness.md",
     "content/Combat Options.md",
@@ -242,9 +246,6 @@
     "public/assets/graph1.aseprite",
     "public/assets",
     "public/Combat-Options.html",
-    "public/images",
-    "public/tags/plugin/transformer.html",
-    "public/tags/plugin/filter.html",
     "Iacob Hâncu Spintecatorul.md",
     "Lancelot Valdaru.md",
     "Lia Luncar.md",
@@ -267,7 +268,6 @@
     "Consiliul Regal.md",
     "In Umbra Stelelor.md",
     "Plot Outline.canvas",
-    "Sesiunea 0.md",
     "bs/fizica/chaos theory.canvas"
   ]
 }
